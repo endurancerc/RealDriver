@@ -1,0 +1,115 @@
+
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.6.0'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+
+
+plugins {
+    id 'com.android.application'
+    id("com.google.gms.google-services")
+}
+
+apply plugin: 'com.android.application'
+
+ext {
+    versionMajor = 1
+    versionMinor = 1
+}
+
+
+
+
+
+android {
+    namespace 'com.endurancerc.realdriver'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.endurancerc.realdriver"
+        minSdk 21
+        targetSdk 34
+
+        versionCode computeVersionCode()
+        versionName computeVersionName()
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    viewBinding{
+        enabled=true
+    }
+
+
+
+    packagingOptions {
+        resources {
+            excludes += ['META-INF/DEPENDENCIES.txt', 'META-INF/DEPENDENCIES', 'META-INF/dependencies.txt', 'META-INF/LICENSE.txt', 'META-INF/LICENSE', 'META-INF/license.txt', 'META-INF/LGPL2.1', 'META-INF/NOTICE.txt', 'META-INF/NOTICE', 'META-INF/notice.txt', 'LICENSE.txt']
+        }
+    }
+
+    lint {
+        abortOnError false
+    }
+}
+
+
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    implementation(platform("com.google.firebase:firebase-bom:32.2.2"))
+    implementation 'com.google.firebase:firebase-database-ktx:20.2.2'
+    implementation 'com.google.code.gson:gson:2.10.1'
+    implementation 'com.mesibo.api:webrtc:1.0.5'
+    implementation 'com.guolindev.permissionx:permissionx:1.6.1'
+
+    //implementation 'androidx.core:core:1.13.1'
+    implementation 'com.nanohttpd:nanohttpd:2.1.1'
+    implementation 'com.nanohttpd:nanohttpd-websocket:2.1.1'
+    implementation 'org.greenrobot:eventbus:3.3.1'
+    androidTestImplementation "androidx.test:core:1.6.1";
+    androidTestImplementation "androidx.test.ext:junit:1.2.1";
+    androidTestImplementation "androidx.test:runner:1.6.1";
+    androidTestImplementation "androidx.test:rules:1.6.1";
+}
+
+
+
+def computeVersionName() {
+    // Basic <major>.<minor> version name
+    return String.format('%d.%d', versionMajor, versionMinor)
+}
+
+// Will return 120042 for Jenkins build #42
+def computeVersionCode() {
+    // Major + minor + Jenkins build number (where available)
+    return (versionMajor * 10) + (versionMinor * 10) + Integer.valueOf(System.env.BUILD_NUMBER ?: 0)
+}
