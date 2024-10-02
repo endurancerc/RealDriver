@@ -1,5 +1,7 @@
 # RealDriver
 
-Drive any R/C vehicle over the 4G/5G network using your phone as the receiver and transmitter.
+The easiest and cheapest way to drive an R/C vehicle over a 4G/5G network.
 
-Requires an Endurance R/C 25 Servo Controller and USB OTG cable.
+This app combines a webrtc video chat app with and servo controller app.
+
+Requires an android phone, Endurance R/C 25 Servo Controller and USB OTG cable.
