@@ -19,4 +19,5 @@ Google Firebase Realtime Database: https://servowebrtc-b7721-default-rtdb.fireba
 This app utilizes code from the following GitHub projects: 
 
 USBHIDTerminal by 452(emetemunoy) - https://github.com/452/USBHIDTerminal
+
 JavaWebRTCYouTube by codewithkael - https://github.com/codewithkael/JavaWebRTCYouTube
