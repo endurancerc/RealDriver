@@ -13,14 +13,17 @@ Setup:
       1. Power up the receiver android device, plug the USB OTG cable into the receiver device and then the 25 Servo 
          Controller into the OTG adapter. Next, connect the vehicles steering servo to CH1 and the ESC's to CH2 on the 
          25 Servo Controller board.
+         
       2. Start the RealDriver app on the receiver device. For the sake of the tutorial name this device "receiver" and
          click the "START RECEIVER" button.
+         
       3. Move to the transmitter device to complete the pairing. Once the camera feeds are synched initiate the 
          connection to the 25 Servo Controller by pressing the USB button on the receiver device. 
 
    Transmitter:
       1. Start the RealDriver app on the transmitter device. Enter a unique name like "transmitter" and press the 
          "START TRANSMITTER" button. 
+         
       2. When prompted for the receiver name enter it here. In our case it was "receiver". Hit the "CONNECT" button.
          At this point both devices will be paired for this session. At this point you will be presented with a 
          camera view of the respectable remote device.
