@@ -38,16 +38,18 @@ Usage:
    is synched to the steering and throttle channels.
 
 Buttons:
-   Mute Button: silences the remote device's audio.
-   Camera Disable Button: this button disables the remote devices video feed.
-   Hang Up Button: Exits the current paired state. Video, Audio and Data are all disabled.
-   Rotate Screen Button: Rotates the screen to its alternate view.
-   USB Connect Button: Connects the RealDriver app to the 25 Servo Controller plugged into the device.
-   Map Button: Displays the current GPS coordinates and map data.
-   Servo Endpoints Button: ***TODO: Sets the channel end-points***
-   Down Arrow: Hides the slider and button panel and displays the joystick
-   Joystick: Left-Right mapped to CH1. Up-Down mapped to CH2. The Gear Icon on the top left is displayed
-      while in joystick mode. Pressing this will hide the joystick and return the controls menu.
+
+
+* Mute Button: silences the remote device's audio.
+* Camera Disable Button: this button disables the remote devices video feed.
+* Hang Up Button: Exits the current paired state. Video, Audio and Data are all disabled.
+* Rotate Screen Button: Rotates the screen to its alternate view.
+* USB Connect Button: Connects the RealDriver app to the 25 Servo Controller plugged into the device.
+* Map Button: Displays the current GPS coordinates and map data.
+* Servo Endpoints Button: ***TODO: Sets the channel end-points***
+* Down Arrow: Hides the slider and button panel and displays the joystick
+* Joystick: Left-Right mapped to CH1. Up-Down mapped to CH2. The Gear Icon on the top left is displayed
+  while in joystick mode. Pressing this will hide the joystick and return the controls menu.
 
 -------------------------------------------------------------------------------------------------------------------------
 
