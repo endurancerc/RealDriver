@@ -56,9 +56,9 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-Google Firebase Realtime Database: https://servowebrtc-b7721-default-rtdb.firebaseio.com
+This app utilizes code from the following GitHub projects:
 
-This app utilizes code from the following GitHub projects: 
+Google Firebase Realtime Database: https://servowebrtc-b7721-default-rtdb.firebaseio.com
 
 USBHIDTerminal by 452(emetemunoy) - https://github.com/452/USBHIDTerminal
 
