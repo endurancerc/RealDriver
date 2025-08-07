@@ -4,6 +4,11 @@
 
 ## Drive an R/C vehicle over a 4G/5G network for ultimate range!
 
+Are you bored with radio control vehicles that only go a few hundred meters? Other systems promoting 4G/5G range require
+you to purchase expensive propritary hardware that requires additional sim cards wireless plans. Use what you already
+have with RealDriver!
+
+
 ### Requirements:
    1. Two Android devices. Both devices MUST be able to access the Internet. A WiFi network *can* be used however you are
       limited to the range of the WiFi network. For ultimate range both devices should be registered on a cellular
