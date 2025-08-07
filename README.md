@@ -52,7 +52,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/endurancerc/RealDriver/blob/master/RealDriver_screencap.jpg?raw=true)
+![alt text](https://github.com/endurancerc/RealDriver/blob/master/RealDriver_Screencap.jpg?raw=true)
 
 -------------------------------------------------------------------------------------------------------------------------
 
