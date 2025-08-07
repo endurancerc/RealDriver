@@ -1,5 +1,7 @@
 # RealDriver
 
+![alt text](https://github.com/endurancerc/RealDriver/blob/master/RealDriver_Screencap.jpg?raw=true)
+
 ## Drive an R/C vehicle over a 4G/5G network for ultimate range!
 
 ### Requirements:
@@ -49,10 +51,6 @@
 * Down Arrow: Hides the slider and button panel and displays the joystick
 * Joystick: Left-Right mapped to CH1. Up-Down mapped to CH2. The Gear Icon on the top left is displayed
   while in joystick mode. Pressing this will hide the joystick and return the controls menu.
-
--------------------------------------------------------------------------------------------------------------------------
-
-![alt text](https://github.com/endurancerc/RealDriver/blob/master/RealDriver_Screencap.jpg?raw=true)
 
 -------------------------------------------------------------------------------------------------------------------------
 
