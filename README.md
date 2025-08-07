@@ -3,7 +3,7 @@
 ![alt text](https://github.com/endurancerc/RealDriver/blob/master/RealDriver_Screencap.jpg?raw=true)
 
 <p align="center">
-*Screenshot Simulated
+*Screenshot Simulated*
 </p>
 
 ## Drive an R/C vehicle over a 4G/5G network for ultimate range!
