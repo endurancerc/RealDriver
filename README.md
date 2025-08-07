@@ -8,6 +8,8 @@ Are you bored with radio control vehicles that only go a few hundred meters? Oth
 you to purchase expensive propritary hardware that requires additional sim cards wireless plans. Use what you already
 have with RealDriver!
 
+[Other systems](https://store.cloudrc.com/products/advenx33-5g-transmitter-shipping-fee-for-igor)
+
 
 ### Requirements:
    1. Two Android devices. Both devices MUST be able to access the Internet. A WiFi network *can* be used however you are
