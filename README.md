@@ -4,12 +4,8 @@
 
 ## Drive an R/C vehicle over a 4G/5G network for ultimate range!
 
-Are you bored with radio control vehicles that only go a few hundred meters? Other systems promoting 4G/5G range require
-you to purchase expensive propritary hardware that requires additional sim cards wireless plans. Use what you already
-have with RealDriver!
-
-[Other systems](https://store.cloudrc.com/products/advenx33-5g-transmitter-shipping-fee-for-igor)
-
+Are you bored with radio control vehicles that only go a few hundred meters? [Other systems](https://store.cloudrc.com/products/advenx33-5g-transmitter-shipping-fee-for-igor) touting 4G/5G range require
+you to purchase expensive propritary hardware that requires additional sim cards wireless plans. Use what you already have with RealDriver!
 
 ### Requirements:
    1. Two Android devices. Both devices MUST be able to access the Internet. A WiFi network *can* be used however you are
