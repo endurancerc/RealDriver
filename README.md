@@ -2,8 +2,6 @@
 
 ![alt text](https://github.com/endurancerc/RealDriver/blob/master/RealDriver_Screencap.jpg?raw=true)
 
-<div style="text-align: center;" markdown="1">Screenshot Simulated</div>
-
 ## Drive an R/C vehicle over a 4G/5G network for ultimate range!
 
 Are you bored with radio control vehicles that only go a few hundred meters? Take your R/C experience to the next level! [Other systems](https://store.cloudrc.com/products/advenx33-5g-transmitter-shipping-fee-for-igor) touting 4G/5G range require you to purchase expensive propritary hardware that requires additional sim cards and wireless plans. If you already own a [25 Servo Controller](http://www.endurance-rc.com/controllers.php#tfservo) you are ready to go; no additional hardware is neded. Best of all RealDriver is free and open source! If there is a 3rd party servo controller you wish to use simply fork this project and edit it as needed.
