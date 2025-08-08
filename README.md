@@ -4,21 +4,20 @@
 
 ## Drive an R/C vehicle over a 4G/5G network for ultimate range!
 
-Ready to go miles instead of meters?! Take your R/C experience to the next level! [Other systems](https://store.cloudrc.com/products/advenx33-5g-transmitter-shipping-fee-for-igor) touting 4G/5G range require you to purchase expensive propritary hardware that requires additional sim cards and wireless plans. If you already own a [25 Servo Controller](http://www.endurance-rc.com/controllers.php#tfservo) you are ready to go; no additional hardware is neded. Best of all RealDriver is free and open source! If there is a 3rd party servo controller you wish to use simply fork this project and edit it as needed.
+Ready to go miles instead of meters?! Take your FPV R/C experience to the next level with RealDriver! [Other systems](https://store.cloudrc.com/products/advenx33-5g-transmitter-shipping-fee-for-igor) touting 4G/5G range require you to purchase expensive propritary hardware that requires additional sim cards and wireless plans. If you already own a [25 Servo Controller](http://www.endurance-rc.com/controllers.php#tfservo) you are ready to go; no additional hardware is neded. Best of all RealDriver is free and open source!
 
 ### Requirements:
    1. Two Android devices. Both devices must be registered on a cellular network with data enabled.
    2. The receiver device must have the Endurance R/C 25 Servo Controller attached via a USB OTG cable.
 
 ### Receiver Setup:
-   1. Power up the receiver android device, plug the USB OTG cable into the receiver device and then the 25 Servo 
-      Controller into the OTG adapter. Next, connect the vehicles steering servo to CH1 and the ESC's to CH2 on the 
-      25 Servo Controller board.
+   1. Power up the receiver android device, plug the USB OTG cable into the receiver device with the 25 Servo
+      Controller into the OTG adapter. Next, connect the vehicles steering servo to CH1 and the ESC's to CH2 on the 25 Servo Controller board.
          
-   2. Start the RealDriver app on the receiver device. For the sake of the tutorial name this device "receiver" and
+   3. Start the RealDriver app on the receiver device. For the sake of the tutorial name this device "receiver" and
       click the "START RECEIVER" button.
          
-   3. Move to the transmitter device to complete the pairing. Once the camera feeds are synched initiate the 
+   4. Move to the transmitter device to complete the pairing. Once the camera feeds are synched initiate the 
       connection to the 25 Servo Controller by pressing the USB button on the receiver device. 
 
 ### Transmitter Setup:
