@@ -46,26 +46,27 @@ Ready to go miles instead of meters?! Take your FPV R/C experience to the next l
 * Rotate Screen Button: Rotates the screen to its alternate view.
 * USB Connect Button: Connects the RealDriver app to the 25 Servo Controller plugged into the device.
 * Map Button: Displays the current GPS coordinates and map data.
-* Servo Endpoints Button: ***TODO: Sets the channel end-points***
+* Servo Endpoints Button: Reserved for future implementation. 
 * Down Arrow: Hides the slider and button panel and displays the joystick
 * Joystick: Left-Right mapped to CH1. Up-Down mapped to CH2. The Gear Icon on the top left is displayed
   while in joystick mode. Pressing this will hide the joystick and return the controls menu.
 
 ### TODO - Future Goals for this software:
-* Support for more than two control channels.
-* Creation of a web-app enabling connections from any web browser.
-* Joystick support. Support for joysticks and game controllers connected to the Android device.
-* Meta Quest 3 support. Creation of a native Meta Quest application with head tracking and hand controller support.
+* Ability to set channel end-points and neutral positions.
+* Support for more than two channels.
+* Web interface for use in any browser or OS.
+* Meta Quest 3 support. Head tracking and hand controller support.
+* Support for joysticks and game controllers connected to the Android device.
 
 -------------------------------------------------------------------------------------------------------------------------
 
 This app utilizes code from the following GitHub projects:
 
-Google Firebase Realtime Database: https://servowebrtc-b7721-default-rtdb.firebaseio.com
-
 USBHIDTerminal by 452(emetemunoy) - https://github.com/452/USBHIDTerminal
 
 JavaWebRTCYouTube by codewithkael - https://github.com/codewithkael/JavaWebRTCYouTube
+
+Google Firebase Realtime Database: https://servowebrtc-b7721-default-rtdb.firebaseio.com
 
 -------------------------------------------------------------------------------------------------------------------------
         ______          __                                    ____     ________
