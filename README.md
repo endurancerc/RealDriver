@@ -52,12 +52,11 @@ Ready to go miles instead of meters?! Take your R/C experience to the next level
 * Joystick: Left-Right mapped to CH1. Up-Down mapped to CH2. The Gear Icon on the top left is displayed
   while in joystick mode. Pressing this will hide the joystick and return the controls menu.
 
-
-
 ### TODO - Future Goals for this software:
+* Support for more than two control channels.
 * Creation of a web-app enabling connections from any web browser.
 * Joystick support. Support for joysticks and game controllers connected to the Android device.
-* Meta Quest support. Creation of a native Meta Quest application. Head tracking allowing of mapping to pan and tilt platforms and Quest hand controller support.
+* Meta Quest 3 support. Creation of a native Meta Quest application with head tracking and hand controller support.
 
 -------------------------------------------------------------------------------------------------------------------------
 
