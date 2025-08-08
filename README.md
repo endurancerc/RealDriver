@@ -7,10 +7,8 @@
 Ready to go miles instead of meters?! Take your R/C experience to the next level! [Other systems](https://store.cloudrc.com/products/advenx33-5g-transmitter-shipping-fee-for-igor) touting 4G/5G range require you to purchase expensive propritary hardware that requires additional sim cards and wireless plans. If you already own a [25 Servo Controller](http://www.endurance-rc.com/controllers.php#tfservo) you are ready to go; no additional hardware is neded. Best of all RealDriver is free and open source! If there is a 3rd party servo controller you wish to use simply fork this project and edit it as needed.
 
 ### Requirements:
-   1. Two Android devices. Both devices MUST be able to access the Internet. A WiFi network *can* be used however you are
-      limited to the range of the WiFi network. For ultimate range both devices should be registered on a cellular
-      carrier network.
-   2. The receiver Android device must have the Endurance R/C 25 Servo Controller attached via a USB OTG cable. 
+   1. Two Android devices. Both devices must be registered on a cellular network with data enabled.
+   2. The receiver device must have the Endurance R/C 25 Servo Controller attached via a USB OTG cable.
 
 ### Receiver Setup:
    1. Power up the receiver android device, plug the USB OTG cable into the receiver device and then the 25 Servo 
@@ -53,6 +51,13 @@ Ready to go miles instead of meters?! Take your R/C experience to the next level
 * Down Arrow: Hides the slider and button panel and displays the joystick
 * Joystick: Left-Right mapped to CH1. Up-Down mapped to CH2. The Gear Icon on the top left is displayed
   while in joystick mode. Pressing this will hide the joystick and return the controls menu.
+
+
+
+### TODO - Future Goals for this software:
+* Creation of a web-app enabling connections from any web browser.
+* Joystick support. Support for joysticks and game controllers connected to the Android device.
+* Meta Quest support. Creation of a native Meta Quest application. Head tracking allowing of mapping to pan and tilt platforms and Quest hand controller support.
 
 -------------------------------------------------------------------------------------------------------------------------
 
