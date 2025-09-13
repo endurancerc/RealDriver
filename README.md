@@ -4,7 +4,7 @@
 
 ## Drive an R/C vehicle over a 4G/5G network for ultimate range!
 
-Ready to go miles instead of meters?! Take your FPV R/C experience to the next level with RealDriver! [Other systems](https://store.cloudrc.com/products/advenx33-5g-transmitter-shipping-fee-for-igor) touting 4G/5G range require you to purchase expensive propritary hardware that requires additional sim cards and wireless plans. If you already own a [25 Servo Controller](http://www.endurance-rc.com/controllers.php#tfservo) you are ready to go; no additional hardware is neded. Best of all RealDriver is free and open source!
+Ready to go miles instead of meters?! Take your FPV R/C experience to the next level with RealDriver! [Other systems](https://store.cloudrc.com/products/advenx33-5g-transmitter-shipping-fee-for-igor) touting 4G/5G range require you to purchase expensive propritary hardware, sim cards and wireless plans. If you already own a [25 Servo Controller](http://www.endurance-rc.com/controllers.php#tfservo) you are ready to go; no additional hardware is neded. Best of all RealDriver is free and open source!
 
 ### Requirements:
    1. Two Android devices. Both devices must be registered on a cellular network with data enabled.
