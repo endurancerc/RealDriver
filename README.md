@@ -7,8 +7,9 @@
 Ready to go miles instead of meters?! Take your FPV R/C experience to the next level with RealDriver! [Other systems](https://store.cloudrc.com/products/advenx33-5g-transmitter-shipping-fee-for-igor) touting 4G/5G range require you to purchase expensive propritary hardware, sim cards and wireless plans. If you already own a [25 Servo Controller](http://www.endurance-rc.com/controllers.php#tfservo) you are ready to go; no additional hardware is neded. Best of all RealDriver is free and open source!
 
 ### Requirements:
-   1. Two Android devices. Both devices must be registered on a cellular network with data enabled.
-   2. The receiver device must have the Endurance R/C 25 Servo Controller attached via a USB OTG cable.
+   1. Two Android devices. The receiver device must be registered on a cellular network with data enabled. The transmitter device can either be connected to a cellular network or connected
+      to WiFi with an iternet connection.
+   2. The receiver device must have the Endurance R/C 25 Servo Controller attached.
 
 ### Receiver Setup:
    1. Power up the receiver android device, plug the USB OTG cable into the receiver device with the 25 Servo
