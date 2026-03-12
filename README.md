@@ -67,8 +67,6 @@ USBHIDTerminal by 452(emetemunoy) - https://github.com/452/USBHIDTerminal
 
 JavaWebRTCYouTube by codewithkael - https://github.com/codewithkael/JavaWebRTCYouTube
 
-Google Firebase Realtime Database: https://servowebrtc-b7721-default-rtdb.firebaseio.com
-
 -------------------------------------------------------------------------------------------------------------------------
         ______          __                                    ____     ________
        / ____/___  ____/ /_  ___________ _____  ________     / __ \  _/_/ ____/
