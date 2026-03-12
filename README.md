@@ -52,21 +52,6 @@ Ready to go miles instead of meters?! Take your FPV R/C experience to the next l
 * Joystick: Left-Right mapped to CH1. Up-Down mapped to CH2. The Gear Icon on the top left is displayed
   while in joystick mode. Pressing this will hide the joystick and return the controls menu.
 
-### TODO - Future Goals for this software:
-* Ability to set channel end-points and neutral positions.
-* Support for more than two channels.
-* Web interface for use in any browser or OS.
-* Meta Quest 3 support. Head tracking and hand controller support.
-* Support for joysticks and game controllers connected to the Android device.
-
--------------------------------------------------------------------------------------------------------------------------
-
-This app utilizes code from the following GitHub projects:
-
-USBHIDTerminal by 452(emetemunoy) - https://github.com/452/USBHIDTerminal
-
-JavaWebRTCYouTube by codewithkael - https://github.com/codewithkael/JavaWebRTCYouTube
-
 -------------------------------------------------------------------------------------------------------------------------
         ______          __                                    ____     ________
        / ____/___  ____/ /_  ___________ _____  ________     / __ \  _/_/ ____/
